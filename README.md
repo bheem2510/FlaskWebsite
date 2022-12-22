@@ -1,6 +1,6 @@
 # FlaskWebsite 🌐
 
-![FlaskWebsite](https://socialify.git.ci/kaustubhgupta/FlaskWebsite/image?description=1&language=1&owner=1&pattern=Circuit%20Board&theme=Light)
+![FlaskWebsite](https://socialify.git.ci/bheemmastkar/FlaskWebsite/image?description=1&language=1&owner=1&pattern=Circuit%20Board&theme=Light)
 
 ## Features 💹
 - Update Blogs Dynamically
