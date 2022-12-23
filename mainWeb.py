@@ -12,7 +12,6 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-
 with open('config.json', 'r') as f:
     parameter = json.load(f)["para"]
 
